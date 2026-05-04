@@ -12,10 +12,10 @@ if (!fs.existsSync(heroPath)) {
 
 const pptx = new PptxGenJS();
 pptx.layout = "LAYOUT_WIDE";
-pptx.author = "Jubilee Med";
-pptx.company = "Jubilee Med";
-pptx.subject = "Jubilee Med digital health platform pitch deck";
-pptx.title = "Jubilee Med Pitch Deck";
+pptx.author = "Jubilee Medical";
+pptx.company = "Jubilee Medical";
+pptx.subject = "Jubilee Medical digital health platform pitch deck";
+pptx.title = "Jubilee Medical Pitch Deck";
 pptx.lang = "en-US";
 pptx.theme = {
   headFontFace: "Aptos Display",
@@ -79,7 +79,7 @@ function addBrand(slide, x = 0.55, y = 0.34, dark = false) {
     fill: { color: C.coral },
     line: { color: C.coral },
   });
-  slide.addText("Jubilee Med", {
+  slide.addText("Jubilee Medical", {
     x: x + 0.58,
     y: y + 0.06,
     w: 1.95,
@@ -100,7 +100,7 @@ function addFooter(slide) {
     h: 0,
     line: { color: C.line, width: 1 },
   });
-  slide.addText("Jubilee Med | Digital health made clear", {
+  slide.addText("Jubilee Medical | Digital health made clear", {
     x: 0.55,
     y: 7.05,
     w: 4.5,
@@ -286,7 +286,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     line: { color: C.tealDark, transparency: 100 },
   });
   addBrand(slide, 0.7, 0.55, true);
-  slide.addText("Jubilee Med", {
+  slide.addText("Jubilee Medical", {
     x: 0.75,
     y: 1.72,
     w: 5.4,
@@ -347,7 +347,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     slide,
     "Solution",
     "A simple connected health platform.",
-    "Jubilee Med gives patients one front door for care and gives providers a practical workspace for appointments, EHR, billing, pharmacy, labs, and reports.",
+    "Jubilee Medical gives patients one front door for care and gives providers a practical workspace for appointments, EHR, billing, pharmacy, labs, and reports.",
   );
   slide.addShape(pptx.ShapeType.roundRect, {
     x: 0.8,
@@ -434,7 +434,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     slide,
     "Provider workflow",
     "One care journey, one operational view.",
-    "Jubilee Med supports the way a clinic actually works from reception to consultation, billing, fulfilment, and reporting.",
+    "Jubilee Medical supports the way a clinic actually works from reception to consultation, billing, fulfilment, and reporting.",
   );
   const steps = ["Booking", "Check-in", "Consult", "Orders", "Payment", "Follow-up"];
   steps.forEach((step, i) => {
@@ -490,7 +490,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     slide,
     "Opportunity",
     "A practical digital layer for local healthcare.",
-    "Jubilee Med starts with Nigeria and focuses on providers and patients who need affordable, easy-to-understand tools that fit daily care delivery.",
+    "Jubilee Medical starts with Nigeria and focuses on providers and patients who need affordable, easy-to-understand tools that fit daily care delivery.",
   );
   slide.addShape(pptx.ShapeType.roundRect, {
     x: 0.8,
@@ -560,7 +560,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     slide,
     "Roadmap and ask",
     "Build, pilot, measure, and scale.",
-    "Jubilee Med needs product completion, compliance review, pilot partners, and launch support to move from beta concept to live healthcare operations.",
+    "Jubilee Medical needs product completion, compliance review, pilot partners, and launch support to move from beta concept to live healthcare operations.",
   );
   card(slide, 0.75, 3.25, 3.7, 1.9, "Next 90 days", "Finalize beta, prepare provider onboarding, test appointment, EHR, pharmacy, lab, payment, and reporting flows.", C.teal);
   card(slide, 4.85, 3.25, 3.7, 1.9, "Pilot goals", "Launch with early providers, monitor appointment volume, retention, payment success, and care follow-up.", C.coral);
@@ -574,7 +574,7 @@ function addThreeSteps(slide, steps, startY = 3.5) {
     fill: { color: C.tealDark },
     line: { color: C.tealDark },
   });
-  slide.addText("hello@jubileemed.ng  |  +234 800 000 0000  |  Lagos, Nigeria", {
+  slide.addText("hello@jubileemedical.health  |  +234 800 000 0000  |  Lagos, Nigeria", {
     x: 1.05,
     y: 5.95,
     w: 11.2,

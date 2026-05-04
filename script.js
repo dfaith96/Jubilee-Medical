@@ -113,9 +113,9 @@ function initForms() {
       event.preventDefault();
       const type = form.dataset.form;
       const messages = {
-        waitlist: "You are on the Jubilee Med beta waitlist.",
-        contact: "Your Jubilee Med contact request has been prepared.",
-        demo: "Your Jubilee Med demo request has been prepared.",
+        waitlist: "You are on the Jubilee Medical beta waitlist.",
+        contact: "Your Jubilee Medical contact request has been prepared.",
+        demo: "Your Jubilee Medical demo request has been prepared.",
       };
 
       showToast(messages[type] || "Request received.");

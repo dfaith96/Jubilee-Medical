@@ -1,12 +1,12 @@
-Jubilee Med package
+Jubilee Medical package
 
 Open index.html in a browser to view the website.
 
 Included files:
-- index.html: one-page Jubilee Med website
+- index.html: one-page Jubilee Medical website
 - styles.css: responsive styling
 - script.js: countdown, menu, role tabs, forms, modal, and search interactions
-- assets/logos: Jubilee Med SVG logo files
+- assets/logos: Jubilee Medical SVG logo files
 - assets/images: hero image, dashboard preview, app preview, and service icons
 - Jubilee_Med_Pitch_Deck.pptx: PowerPoint pitch deck
 
