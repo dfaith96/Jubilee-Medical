@@ -1,0 +1,10 @@
+<svg width="318" height="80" viewBox="0 0 318 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jubilee Med">
+  <rect x="4" y="8" width="64" height="64" rx="16" fill="#0B504B"/>
+  <path d="M36 19C25.8 19 17.5 27.3 17.5 37.5 17.5 51.2 36 66.5 36 66.5s18.5-15.3 18.5-29C54.5 27.3 46.2 19 36 19Z" fill="#DFF4EC"/>
+  <path d="M32.5 29h7v12h12v7h-12v12h-7V48h-12v-7h12V29Z" fill="#F26F5B"/>
+  <path d="M49 18l3 6 7 1.5-5.3 4.6.7 6.9-5.4-3.7-5.8 3.7 1.4-6.9-5.3-4.6 7-1.5 2.7-6Z" fill="#F6BD43"/>
+  <text x="82" y="40" fill="#132421" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="0">Jubilee</text>
+  <text x="82" y="62" fill="#0F766E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="0">Med</text>
+  <path d="M176 55h128" stroke="#D8E8E1" stroke-width="2" stroke-linecap="round"/>
+  <path d="M178 48c15-17 34-17 48 0 14 17 31 17 47 0" stroke="#F26F5B" stroke-width="5" stroke-linecap="round"/>
+</svg>

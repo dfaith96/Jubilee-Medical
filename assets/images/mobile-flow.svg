@@ -1,0 +1,23 @@
+<svg width="640" height="760" viewBox="0 0 640 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jubilee Med mobile app flow">
+  <rect width="640" height="760" fill="#F6FAF8"/>
+  <rect x="158" y="40" width="324" height="680" rx="48" fill="#132421"/>
+  <rect x="176" y="64" width="288" height="632" rx="34" fill="#FFFFFF"/>
+  <rect x="250" y="82" width="140" height="10" rx="5" fill="#1F3733"/>
+  <text x="206" y="134" fill="#132421" font-family="Inter, Segoe UI, Arial" font-size="24" font-weight="850">Good morning</text>
+  <text x="206" y="162" fill="#5C6F6A" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="650">What care do you need?</text>
+  <rect x="206" y="196" width="228" height="92" rx="18" fill="#0B504B"/>
+  <text x="230" y="232" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="18" font-weight="850">Next appointment</text>
+  <text x="230" y="260" fill="#BDEDDD" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="650">Today, 2:30 PM</text>
+  <rect x="206" y="322" width="100" height="92" rx="18" fill="#DFF4EC"/>
+  <path d="M256 344v48M232 368h48" stroke="#0F766E" stroke-width="10" stroke-linecap="round"/>
+  <text x="226" y="440" fill="#132421" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="850">Doctor</text>
+  <rect x="334" y="322" width="100" height="92" rx="18" fill="#FFF0EC"/>
+  <path d="M356 372h56M384 344v56" stroke="#F26F5B" stroke-width="9" stroke-linecap="round"/>
+  <text x="352" y="440" fill="#132421" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="850">Pharmacy</text>
+  <rect x="206" y="478" width="228" height="70" rx="18" fill="#F6FAF8" stroke="#D7E6DF"/>
+  <circle cx="240" cy="513" r="17" fill="#F6BD43"/>
+  <text x="270" y="508" fill="#132421" font-family="Inter, Segoe UI, Arial" font-size="15" font-weight="850">Lab result ready</text>
+  <text x="270" y="530" fill="#5C6F6A" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="650">Tap to view</text>
+  <rect x="206" y="572" width="228" height="56" rx="16" fill="#F26F5B"/>
+  <text x="262" y="607" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-size="16" font-weight="850">Book care</text>
+</svg>
